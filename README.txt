@@ -1,3 +1,17 @@
+--------------------------------------------
+Build the JAR (For Modders - Not Developers)
+--------------------------------------------
+2 Commands are Required to Build a JAR File for This Project.
+Commands for Windows:
+".\gradlew setupDevWorkspace" and ".\gradlew build" (Powershell)
+Commands for Linux // MacOS:
+"./gradlew setupDevWorkspace" and "./gradlew build"
+(Do Not Mix up The Commands for Windows with Linux // MacOS or Linux // MacOS with Windows even if they look similar)
+
+The Jar File can be found at:
+Windows: "(DriveLetter):\PATH\TO\Light-Switch-App-master\build\libs\"
+Linux // MacOS: "/PATH/TO/Light-Switch-App-master/build/libs/"
+JAR File: "lightswitch-1.1.2-1.12.2.jar"
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
